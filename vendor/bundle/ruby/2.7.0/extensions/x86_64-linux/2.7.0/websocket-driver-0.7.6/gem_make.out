@@ -1,0 +1,15 @@
+current directory: /home/taskcraft/Desktop/Movie_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/taskcraft/.rvm/rubies/ruby-2.7.4/bin/ruby -I /home/taskcraft/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20231212-13652-16z08xk.rb extconf.rb
+creating Makefile
+
+current directory: /home/taskcraft/Desktop/Movie_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/taskcraft/Desktop/Movie_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/taskcraft/Desktop/Movie_app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20231212-13652-1j0h5so
